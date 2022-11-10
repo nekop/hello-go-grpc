@@ -1,6 +1,6 @@
 module github.com/nekop/hello-go-grpc
 
-go 1.18
+go 1.17
 
 require (
 	github.com/nekop/hello-go-grpc v0.0.0-20210122031318-09fc8ba3204f
